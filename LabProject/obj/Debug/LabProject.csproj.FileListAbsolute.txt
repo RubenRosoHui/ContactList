@@ -1,0 +1,73 @@
+C:\Users\rgroso-hui\Documents\visual studio 2015\Projects\LabProject\LabProject\bin\Debug\LabProject.exe.config
+C:\Users\rgroso-hui\Documents\visual studio 2015\Projects\LabProject\LabProject\bin\Debug\LabProject.exe
+C:\Users\rgroso-hui\Documents\visual studio 2015\Projects\LabProject\LabProject\bin\Debug\LabProject.pdb
+C:\Users\rgroso-hui\Documents\visual studio 2015\Projects\LabProject\LabProject\obj\Debug\LabProject.csprojResolveAssemblyReference.cache
+C:\Users\rgroso-hui\Documents\visual studio 2015\Projects\LabProject\LabProject\obj\Debug\LabProject.Form1.resources
+C:\Users\rgroso-hui\Documents\visual studio 2015\Projects\LabProject\LabProject\obj\Debug\LabProject.Properties.Resources.resources
+C:\Users\rgroso-hui\Documents\visual studio 2015\Projects\LabProject\LabProject\obj\Debug\LabProject.csproj.GenerateResource.Cache
+C:\Users\rgroso-hui\Documents\visual studio 2015\Projects\LabProject\LabProject\obj\Debug\LabProject.exe
+C:\Users\rgroso-hui\Documents\visual studio 2015\Projects\LabProject\LabProject\obj\Debug\LabProject.pdb
+C:\Users\rgroso-hui\Downloads\LabProject\LabProject\bin\Debug\LabProject.exe.config
+C:\Users\rgroso-hui\Downloads\LabProject\LabProject\obj\Debug\LabProject.exe
+C:\Users\rgroso-hui\Downloads\LabProject\LabProject\obj\Debug\LabProject.pdb
+C:\Users\rgroso-hui\Downloads\LabProject\LabProject\bin\Debug\LabProject.exe
+C:\Users\rgroso-hui\Downloads\LabProject\LabProject\bin\Debug\LabProject.pdb
+C:\Users\rgroso-hui\Downloads\LabProject\LabProject\obj\Debug\LabProject.csprojResolveAssemblyReference.cache
+C:\Users\rgroso-hui\Downloads\LabProject\LabProject\obj\Debug\LabProject.Form1.resources
+C:\Users\rgroso-hui\Downloads\LabProject\LabProject\obj\Debug\LabProject.FormDelete.resources
+C:\Users\rgroso-hui\Downloads\LabProject\LabProject\obj\Debug\LabProject.FormInsert.resources
+C:\Users\rgroso-hui\Downloads\LabProject\LabProject\obj\Debug\LabProject.FormUpdate.resources
+C:\Users\rgroso-hui\Downloads\LabProject\LabProject\obj\Debug\LabProject.Properties.Resources.resources
+C:\Users\rgroso-hui\Downloads\LabProject\LabProject\obj\Debug\LabProject.csproj.GenerateResource.Cache
+I:\LabProject\LabProject\bin\Debug\LabProject.exe.config
+I:\LabProject\LabProject\obj\Debug\LabProject.exe
+I:\LabProject\LabProject\obj\Debug\LabProject.pdb
+I:\LabProject\LabProject\bin\Debug\LabProject.exe
+I:\LabProject\LabProject\bin\Debug\LabProject.pdb
+I:\LabProject\LabProject\bin\Debug\mscorlib.dll
+I:\LabProject\LabProject\bin\Debug\System.Net.Http.dll
+I:\LabProject\LabProject\bin\Debug\System.Net.Http.xml
+I:\LabProject\LabProject\bin\Debug\normidna.nlp
+I:\LabProject\LabProject\bin\Debug\normnfc.nlp
+I:\LabProject\LabProject\bin\Debug\normnfd.nlp
+I:\LabProject\LabProject\bin\Debug\normnfkc.nlp
+I:\LabProject\LabProject\bin\Debug\normnfkd.nlp
+I:\LabProject\LabProject\obj\Debug\LabProject.csprojResolveAssemblyReference.cache
+I:\LabProject\LabProject\obj\Debug\LabProject.Form1.resources
+I:\LabProject\LabProject\obj\Debug\LabProject.FormDelete.resources
+I:\LabProject\LabProject\obj\Debug\LabProject.FormInsert.resources
+I:\LabProject\LabProject\obj\Debug\LabProject.FormUpdate.resources
+I:\LabProject\LabProject\obj\Debug\LabProject.Properties.Resources.resources
+I:\LabProject\LabProject\obj\Debug\LabProject.csproj.GenerateResource.Cache
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\bin\Debug\LabProject.exe.config
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\obj\Debug\LabProject.exe
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\obj\Debug\LabProject.pdb
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\bin\Debug\LabProject.exe
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\bin\Debug\LabProject.pdb
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\bin\Debug\mscorlib.dll
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\bin\Debug\System.Net.Http.dll
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\bin\Debug\System.Net.Http.xml
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\bin\Debug\normidna.nlp
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\bin\Debug\normnfc.nlp
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\bin\Debug\normnfd.nlp
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\bin\Debug\normnfkc.nlp
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\bin\Debug\normnfkd.nlp
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\obj\Debug\LabProject.csprojResolveAssemblyReference.cache
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\obj\Debug\LabProject.Form1.resources
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\obj\Debug\LabProject.FormDelete.resources
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\obj\Debug\LabProject.FormInsert.resources
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\obj\Debug\LabProject.FormUpdate.resources
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\obj\Debug\LabProject.Properties.Resources.resources
+C:\Users\Santiago Neymar Jr\Documents\Visual Studio 2012\Projects\LabProject\LabProject\obj\Debug\LabProject.csproj.GenerateResource.Cache
+C:\Users\rgroso-hui\Desktop\LabProject\LabProject\bin\Debug\LabProject.exe.config
+C:\Users\rgroso-hui\Desktop\LabProject\LabProject\obj\Debug\LabProject.exe
+C:\Users\rgroso-hui\Desktop\LabProject\LabProject\obj\Debug\LabProject.pdb
+C:\Users\rgroso-hui\Desktop\LabProject\LabProject\bin\Debug\LabProject.exe
+C:\Users\rgroso-hui\Desktop\LabProject\LabProject\bin\Debug\LabProject.pdb
+C:\Users\rgroso-hui\Desktop\LabProject\LabProject\obj\Debug\LabProject.csprojResolveAssemblyReference.cache
+C:\Users\rgroso-hui\Desktop\LabProject\LabProject\obj\Debug\LabProject.Form1.resources
+C:\Users\rgroso-hui\Desktop\LabProject\LabProject\obj\Debug\LabProject.FormDelete.resources
+C:\Users\rgroso-hui\Desktop\LabProject\LabProject\obj\Debug\LabProject.FormInsert.resources
+C:\Users\rgroso-hui\Desktop\LabProject\LabProject\obj\Debug\LabProject.FormUpdate.resources
+C:\Users\rgroso-hui\Desktop\LabProject\LabProject\obj\Debug\LabProject.Properties.Resources.resources
+C:\Users\rgroso-hui\Desktop\LabProject\LabProject\obj\Debug\LabProject.csproj.GenerateResource.Cache
